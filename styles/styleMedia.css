@@ -1,0 +1,19 @@
+@media screen and (max-width: 768px) {
+  .postImage {
+    max-width: 100%;
+    max-height: 100%;
+  }
+
+  .sidebar {
+    display: none;
+  }
+
+  .blogLogo {
+    width: 80px;
+  }
+
+  .content {
+    margin-left: 15px;
+    border-left: none;
+  }
+}
